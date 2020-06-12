@@ -1,2 +1,2 @@
 # watermarker
-Adding each pdf page with watermarker
+Merging each pdf page with watermarker
